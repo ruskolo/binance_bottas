@@ -27,7 +27,7 @@ volume_ratio_min = 0.8
 loop_buy_style = 'hi'
 
 
-client = Client('r4wwOjKaAGLqP12ETukXGDl3197rgAAjTs2c8fMtsWNpH8pEgTeJLmqArlcdQYjc', '6rsJJ5KEPA8crdlgg0MMCZUcoRMOAE998rMuHcaof085bJuSUAoHBwbqTJcQ7LFf')
+client = Client(<API>, <API_SECRET>)
 
 def getBTCBalance():
     try:
