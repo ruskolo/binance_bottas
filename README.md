@@ -6,3 +6,7 @@ Dependencies:
 pip install python-binance
 
 Made with the python wrapper by https://github.com/sammchardy. Thanks!
+
+Usage:
+
+python2 kobayashi.py
