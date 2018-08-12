@@ -7,7 +7,7 @@ from random import randint
 from binance.client import Client
 from binance.enums import *
 
-client = Client('r4wwOjKaAGLqP12ETukXGDl3197rgAAjTs2c8fMtsWNpH8pEgTeJLmqArlcdQYjc', '6rsJJ5KEPA8crdlgg0MMCZUcoRMOAE998rMuHcaof085bJuSUAoHBwbqTJcQ7LFf')
+client = Client(<API>, <API_SECRET>)
 
 change_since_high_outset = -1.5
 change_since_high_increment = -0.5
