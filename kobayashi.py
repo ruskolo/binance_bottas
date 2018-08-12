@@ -41,7 +41,7 @@ ballpark_modifier = 1
 #change_since_buy_outset = 1
 #change_since_buy_increment = 0.4
 
-client = Client('r4wwOjKaAGLqP12ETukXGDl3197rgAAjTs2c8fMtsWNpH8pEgTeJLmqArlcdQYjc', '6rsJJ5KEPA8crdlgg0MMCZUcoRMOAE998rMuHcaof085bJuSUAoHBwbqTJcQ7LFf')
+client = Client(<API>, <API_SECRET>)
 
 print ' _           _   _                '
 print '| |         | | | |               '
